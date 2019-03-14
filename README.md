@@ -1,7 +1,7 @@
 # StackData
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-A data set of key tools used by 1000 highly successful companies.
+A data set of key tools used by 1000 highly successful software companies.
 
 `stacks.json` contains a list of the companies and what techologies they use while `graph.csv` gives the set of edges used to create the following *StackMap*:  
 
@@ -14,3 +14,5 @@ The graph is created by setting each tool to be one node and two nodes are joine
 Graph visualisation is done in Gephi 0.92. 
 
 Node size corresponds to the amount of companies using a tool. If two tool are often used together then they will be closer together in the visualisation.
+
+The data was gathered from public posts on Stackshare.io
