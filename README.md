@@ -9,7 +9,7 @@ A data set of key tools used by 1000 highly successful software companies.
 
 #### What is going on in the map
 
-The graph is created by setting each tool to be one node and two nodes are joined by an edge if they are used simultaniously by a company - edge weight corresponds to how often tools are used together.
+The graph is created by setting each tool to be one node and two nodes are joined by an edge if they are used simultaneously by a company - edge weight corresponds to how often tools are used together.
 
 Graph visualisation is done in Gephi 0.92. 
 
